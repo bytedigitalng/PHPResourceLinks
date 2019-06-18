@@ -2,4 +2,4 @@
 
 
 #### PHP Clean Code
-[](https://github.com/jupeter/clean-code-php)
+[Write clean and readable PHP code](https://github.com/jupeter/clean-code-php)
